@@ -9,13 +9,13 @@ It is a CSV file, contains 31 features, the last feature is used to classify the
 * The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
 ## Flow of Project
 We have done Exploratory Data Analysis on full data then we have worked on outliers, Undersamped the data because of imbalance data then finally we have used Logistic Regression and Decision Tree techniques to predict to train the data and to predict whether the transaction is Fraud or not. We have also applied Recursive Feature Elimination(RFE) technique for selecting features that are more relevant in predicting the target variable.
-## How to Run the Project
+### How to Run the Project
 In order to run the project just download the data from above mentioned source then run the file.
-## Prerequisites
+### Prerequisites
 You need to have installed following softwares and libraries in your machine before running this project.
 * Python 3
 * Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy.
-## Installing
+### Installing
 * Python 3: https://www.python.org/downloads/
 * Anaconda: https://www.anaconda.com/download/
 ## Authors
