@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection
-![Alt text](feature_distribution.png?raw=true "Title")
+![Alt text](Credit-card-fraud-detection-with-classification-algorithms.png?raw=true "Title")
 ### Data Source: https://www.kaggle.com/mlg-ulb/creditcardfraud/data
 It is a CSV file, contains 31 features, the last feature is used to classify the transaction whether it is a fraud or not. 
 ### Information about data set
