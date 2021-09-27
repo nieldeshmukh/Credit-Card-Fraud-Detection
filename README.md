@@ -15,9 +15,9 @@ It is a CSV file, contains 31 features, the last feature is used to classify the
 * Also applied Recursive Feature Elimination(RFE) technique for selecting features that are more relevant in predicting the target variable.
 ## Quick Results
 #### Important Features
-![Alt text](Credit-card-fraud-detection-with-classification-algorithms.png?raw=true "Title")
+![Alt text](Important Features.png?raw=true "Title")
 #### Precision-Recall Curve After Undersampling data
-![Alt text](Credit-card-fraud-detection-with-classification-algorithms.png?raw=true "Title")
+![Alt text](Precision-Recall Curve.png?raw=true "Title")
 ### How to Run the Project
 In order to run the project just download the data from above mentioned source then run the file.
 ### Prerequisites
