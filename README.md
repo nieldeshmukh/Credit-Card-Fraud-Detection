@@ -8,7 +8,10 @@ It is a CSV file, contains 31 features, the last feature is used to classify the
 * I think RECALL score is the most important metric here since the goal is to correctly classify frauds as frauds. Even if non-frauds are predicted frauds won't harm much as they will be under suspect but if frauds are predicted non-frauds then that is where the model fails.
 * The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
 ## Flow of Project
-We have done Exploratory Data Analysis on full data then we have worked on outliers, Undersamped the data because of imbalance data then finally we have used Logistic Regression and Decision Tree techniques to predict to train the data and to predict whether the transaction is Fraud or not. We have also applied Recursive Feature Elimination(RFE) technique for selecting features that are more relevant in predicting the target variable.
+* Exploratory Data Analysis on full data and also deal with Outliers. 
+* Dataset is highly imbalance, applied Undersampling technique to deal with this imbalance. 
+* Used Logistic Regression and Decision Tree techniques to predict to train the data and to predict whether the transaction is Fraud or not. 
+* Also applied Recursive Feature Elimination(RFE) technique for selecting features that are more relevant in predicting the target variable.
 ### How to Run the Project
 In order to run the project just download the data from above mentioned source then run the file.
 ### Prerequisites
